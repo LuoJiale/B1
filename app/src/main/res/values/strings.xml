@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">B1</string>
+    <string name="main_title">我的账户</string>
+    <string name="main_tv1">账户余额：</string>
+    <string name="btn_carNumber">车&#12288;&#12288;号：</string>
+    <string name="main_tv3">充值金额：</string>
+    <string name="main_a1_item">55元</string>
+    <string name="main_edtext" />
+    <string name="main_ed_hint">请输入充值金额</string>
+    <string name="main_btn_find">查询</string>
+    <string name="main_btn_chong">充值</string>
+    <string name="hints">请输入充值金额</string>
+    <string name="bar1">我的账户</string>
+</resources>
